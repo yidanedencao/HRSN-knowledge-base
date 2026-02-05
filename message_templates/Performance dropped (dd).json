@@ -51,8 +51,8 @@
       "rdfs:label": "negative performance trend set"
     },
     {
-      "@id": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure",
-      "rdfs:label": "desired increase measure"
+      "@id": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure",
+      "rdfs:label": "desired decrease measure"
     }
   ],
   "has_causal_pathway": {
@@ -60,11 +60,11 @@
     "schema:name": "Worsening"
   },
   "Name": {
-    "@value": "Performance dropped"
+    "@value": "Performance dropped (dd)"
   },
   "Message text": [
     {
-      "@value": "Dear Clinic,\n\nYou may have an opportunity to improve the [measure phrase] for [social need] at your clinic.\n\nIn the last quarter, [recipient performance level]% ([measure numerator]/[measure denominator]) of your patients [detail phrase].\n\nFor patients with social needs, consider offering referral navigation support and following up with them to ensure access to referred services and address any barriers.\n\nMore information is available at your clinical quality dashboard."
+      "@value": "Dear Clinic,\n\nYou may have an opportunity to improve your performance by reducing the [measure phrase] for [social need] at your clinic.\n\nIn the last quarter, [recipient performance level]% ([measure numerator]/[measure denominator]) of your patients [detail phrase].\n\nFor patients with social needs, consider offering referral navigation support and following up with them to ensure access to referred services and address any barriers.\n\nMore information is available at your clinical quality dashboard."
     }
   ],
   "Short message ID": {
@@ -78,11 +78,11 @@
     "@value": "Bar chart, line chart"
   },
   "schema:isBasedOn": "https://repo.metadatacenter.org/templates/707d3573-8ac9-4e2c-b53b-2026a795308c",
-  "schema:name": "Performance dropped",
+  "schema:name": "Performance dropped (dd)",
   "schema:description": "specification for a possible precision feedback message",
   "pav:createdOn": "2026-02-05T08:53:20-08:00",
   "pav:createdBy": "",
   "pav:lastUpdatedOn": "2026-02-05T08:53:20-08:00",
   "oslc:modifiedBy": "",
-  "@id": "https://repo.metadatacenter.org/template-instances/efb96f50-ffd9-4aa5-b208-9595a2285937"
+  "@id": "https://repo.metadatacenter.org/template-instances/ec9d208e-1248-46e3-aa5b-dc01b2454959"
 }

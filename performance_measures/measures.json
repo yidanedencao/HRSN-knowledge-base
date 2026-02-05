@@ -34,10 +34,10 @@
   },
   "slowmo:IsAboutMeasure": [
     {
-      "@id": "_:Screen-Complete-finance",
+      "@id": "_:Screen-Complete-financing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Screening Completion Financial Insecurity",
-      "identifier": "Screen-Complete-finance",
+      "identifier": "Screen-Complete-financing",
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
     },
     {
@@ -69,10 +69,10 @@
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
     },
     {
-      "@id": "_:Positive-Screen-finance",
+      "@id": "_:Positive-Screen-financing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Social Needs Positive Screen Financial Insecurity",
-      "identifier": "Positive-Screen-finance",
+      "identifier": "Positive-Screen-financing",
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
     },
     {
@@ -83,10 +83,10 @@
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
     },
     {
-      "@id": "_:Positive-Screen-utlities",
+      "@id": "_:Positive-Screen-utilities",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Social Needs Positive Screen Utility Instability",
-      "identifier": "Positive-Screen-utlities",
+      "identifier": "Positive-Screen-utilities",
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
     },
     {
@@ -104,10 +104,10 @@
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
     },
     {
-      "@id": "_:PosScreen-Referral-finance",
+      "@id": "_:PosScreen-Referral-financing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens Requesting Referrals Financial Insecurity",
-      "identifier": "PosScreen-Referral-finance",
+      "identifier": "PosScreen-Referral-financing",
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
     },
     {
@@ -118,10 +118,10 @@
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
     },
     {
-      "@id": "_:PosScreen-Referral-utlities",
+      "@id": "_:PosScreen-Referral-utilities",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens Requesting Referrals Utility Instability",
-      "identifier": "PosScreen-Referral-utlities",
+      "identifier": "PosScreen-Referral-utilities",
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
     },
     {
@@ -139,10 +139,10 @@
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
     },
     {
-      "@id": "_:PositiveScreen-NeedsImproved-finance",
+      "@id": "_:PositiveScreen-NeedsImproved-financing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Improved Social Needs Financial Insecurity",
-      "identifier": "PositiveScreen-NeedsImproved-finance",
+      "identifier": "PositiveScreen-NeedsImproved-financing",
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
     },
     {
@@ -153,10 +153,10 @@
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
     },
     {
-      "@id": "_:PositiveScreen-NeedsImproved-utlities",
+      "@id": "_:PositiveScreen-NeedsImproved-utilities",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Improved Social Needs Utility Instability",
-      "identifier": "PositiveScreen-NeedsImproved-utlities",
+      "identifier": "PositiveScreen-NeedsImproved-utilities",
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
     },
     {
@@ -174,10 +174,10 @@
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
     },
     {
-      "@id": "_:PositiveScreen-NeedsOngoing-finance",
+      "@id": "_:PositiveScreen-NeedsOngoing-financing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Persistent Social Needs Financial Insecurity",
-      "identifier": "PositiveScreen-NeedsOngoing-finance",
+      "identifier": "PositiveScreen-NeedsOngoing-financing",
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
     },
     {
@@ -188,10 +188,10 @@
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
     },
     {
-      "@id": "_:PositiveScreen-NeedsOngoing-utlities",
+      "@id": "_:PositiveScreen-NeedsOngoing-utilities",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Persistent Social Needs Utility Instability",
-      "identifier": "PositiveScreen-NeedsOngoing-utlities",
+      "identifier": "PositiveScreen-NeedsOngoing-utilities",
       "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
     },
     {

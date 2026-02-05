@@ -4,12 +4,17 @@ message_templates/:
   - Achieved top 10 peer benchmark.json
   - Approach goal.json
   - Approach peer average.json
+  - Congratulations high performance (dd).json
   - Congratulations high performance.json
   - Drop below goal.json
   - Drop below peer average.json
+  - Not top performer (dd).json
   - Not top performer.json
+  - Opportunity to improve goal (dd).json
   - Opportunity to improve goal.json
+  - Performance dropped (dd).json
   - Performance dropped.json
+  - Performance improving (dd).json
   - Performance improving.json
   - Reached goal.json
 

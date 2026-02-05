@@ -47,24 +47,32 @@
   "@type": "http://data.bioontology.org/ontologies/PSDO/classes/http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPSDO_0000002",
   "is_about": [
     {
-      "@id": "http://purl.obolibrary.org/obo/PSDO_0000119",
-      "rdfs:label": "negative performance trend set"
+      "@id": "http://purl.obolibrary.org/obo/PSDO_0000117",
+      "rdfs:label": "positive performance gap set"
     },
     {
-      "@id": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure",
-      "rdfs:label": "desired increase measure"
+      "@id": "http://purl.obolibrary.org/obo/PSDO_0000045",
+      "rdfs:label": "social comparator element"
+    },
+    {
+      "@id": "http://purl.obolibrary.org/obo/PSDO_0000129",
+      "rdfs:label": "peer 90th percentile benchmark"
+    },
+    {
+      "@id": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure",
+      "rdfs:label": "desired decrease measure"
     }
   ],
   "has_causal_pathway": {
-    "@id": "https://repo.metadatacenter.org/template-instances/f20f522c-3c0d-4eea-b459-95b8404051d5",
-    "schema:name": "Worsening"
+    "@id": "https://repo.metadatacenter.org/template-instances/8302e75d-ab21-4613-b94a-89c0eaf54c39",
+    "schema:name": "Social Better"
   },
   "Name": {
-    "@value": "Performance dropped"
+    "@value": "Congratulations high performance (dd)"
   },
   "Message text": [
     {
-      "@value": "Dear Clinic,\n\nYou may have an opportunity to improve the [measure phrase] for [social need] at your clinic.\n\nIn the last quarter, [recipient performance level]% ([measure numerator]/[measure denominator]) of your patients [detail phrase].\n\nFor patients with social needs, consider offering referral navigation support and following up with them to ensure access to referred services and address any barriers.\n\nMore information is available at your clinical quality dashboard."
+      "@value": "Dear Clinic,\n\nCongratulations, your performance is among the top 10% of peer clinics in reducing the [measure phrase] for [topic phrase].\n\nIn the last quarter, [recipient performance level]% ([measure numerator]/[measure denominator]) of your patients [detail phrase]. \n\nPlease sustain your awareness and support in identifying and addressing patients' health-related social needs to increase your impact on patient outcomes.\n\nCase-by-case breakdown of your patients is available here."
     }
   ],
   "Short message ID": {
@@ -78,11 +86,11 @@
     "@value": "Bar chart, line chart"
   },
   "schema:isBasedOn": "https://repo.metadatacenter.org/templates/707d3573-8ac9-4e2c-b53b-2026a795308c",
-  "schema:name": "Performance dropped",
+  "schema:name": "Congratulations high performance (dd)",
   "schema:description": "specification for a possible precision feedback message",
   "pav:createdOn": "2026-02-05T08:53:20-08:00",
   "pav:createdBy": "",
   "pav:lastUpdatedOn": "2026-02-05T08:53:20-08:00",
   "oslc:modifiedBy": "",
-  "@id": "https://repo.metadatacenter.org/template-instances/efb96f50-ffd9-4aa5-b208-9595a2285937"
+  "@id": "https://repo.metadatacenter.org/template-instances/4733dce0-3de2-42ad-a198-a768fa730c67"
 }

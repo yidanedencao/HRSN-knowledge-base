@@ -55,12 +55,12 @@
       "rdfs:label": "social comparator element"
     },
     {
-      "@id": "http://purl.obolibrary.org/obo/PSDO_0000129bottom10percent",
-      "rdfs:label": "peer 10th percentile benchmark"
+      "@id": "http://purl.obolibrary.org/obo/PSDO_0000129",
+      "rdfs:label": "peer 90th percentile benchmark"
     },
     {
-      "@id": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure",
-      "rdfs:label": "desired decrease measure"
+      "@id": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure",
+      "rdfs:label": "desired increase measure"
     }
   ],
   "has_causal_pathway": {
@@ -72,7 +72,7 @@
   },
   "Message text": [
     {
-      "@value": "Dear Clinic,\n\nYour clinic's performance is not among the top 10% of peer clinics in reducing the [measure phrase] for [topic phrase].\n\nIn the last quarter, [recipient performance level]% ([measure numerator]/[measure denominator]) of your patients [detail phrase]. \n\nFor patients with social needs, consider offering referral navigation support and following up with them to ensure access to referred services and address any barriers.\n\nCase-by-case breakdown of your patients is available here."
+      "@value": "Dear Clinic,\n\nYour clinic's performance is not in the top 10% among peer clinics about the [measure phrase] for [topic phrase].\n\nIn the last quarter, [recipient performance level]% ([measure numerator]/[measure denominator]) of your patients [detail phrase]. \n\nFor patients with social needs, consider offering referral navigation support and following up with them to ensure access to referred services and address any barriers.\n\nCase-by-case breakdown of your patients is available here."
     }
   ],
   "Short message ID": {
@@ -88,9 +88,9 @@
   "schema:isBasedOn": "https://repo.metadatacenter.org/templates/707d3573-8ac9-4e2c-b53b-2026a795308c",
   "schema:name": "Not top performer",
   "schema:description": "specification for a possible precision feedback message",
-  "pav:createdOn": "2026-02-03T15:38:33-08:00",
+  "pav:createdOn": "2026-02-05T08:53:20-08:00",
   "pav:createdBy": "",
-  "pav:lastUpdatedOn": "2026-02-03T15:38:33-08:00",
+  "pav:lastUpdatedOn": "2026-02-05T08:53:20-08:00",
   "oslc:modifiedBy": "",
-  "@id": "https://repo.metadatacenter.org/template-instances/4c9d2705-0fce-4cab-b200-1096adfa7250"
+  "@id": "https://repo.metadatacenter.org/template-instances/d6996958-f0ff-4db4-9bde-5022193876e6"
 }
