@@ -17,7 +17,7 @@
     "slowmo:WithComparator": "http://example.com/slowmo#WithComparator",
     "has_part": "http://purl.obolibrary.org/obo/bfo#BFO_0000051",
     "has_disposition": "http://purl.obolibrary.org/obo/RO_0000091",
-    "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_has_desired_direction"
+    "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000034"
   },
   "@id": "PlaceHolderForID",
   "@type": "http://example.com/slowmo#spek",
@@ -38,175 +38,175 @@
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Screening Completion Financial Insecurity",
       "identifier": "Screen-Complete-financing",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:Screen-Complete-housing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Screening Completion Housing Instability",
       "identifier": "Screen-Complete-housing",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:Screen-Complete-utilities",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Screening Completion Utility Instability",
       "identifier": "Screen-Complete-utilities",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:Screen-Complete-food",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Screening Completion Food Insecurity",
       "identifier": "Screen-Complete-food",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:Screen-Complete-transportation",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Screening Completion Transportation Insecurity",
       "identifier": "Screen-Complete-transportation",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:Positive-Screen-financing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Social Needs Positive Screen Financial Insecurity",
       "identifier": "Positive-Screen-financing",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000042"
     },
     {
       "@id": "_:Positive-Screen-housing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Social Needs Positive Screen Housing Instability",
       "identifier": "Positive-Screen-housing",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000042"
     },
     {
       "@id": "_:Positive-Screen-utilities",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Social Needs Positive Screen Utility Instability",
       "identifier": "Positive-Screen-utilities",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000042"
     },
     {
       "@id": "_:Positive-Screen-food",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Social Needs Positive Screen Food Insecurity",
       "identifier": "Positive-Screen-food",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000042"
     },
     {
       "@id": "_:Positive-Screen-transportation",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Social Needs Positive Screen Transportation Insecurity",
       "identifier": "Positive-Screen-transportation",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000042"
     },
     {
       "@id": "_:PosScreen-Referral-financing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens Requesting Referrals Financial Insecurity",
       "identifier": "PosScreen-Referral-financing",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:PosScreen-Referral-housing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens Requesting Referrals Housing Instability",
       "identifier": "PosScreen-Referral-housing",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:PosScreen-Referral-utilities",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens Requesting Referrals Utility Instability",
       "identifier": "PosScreen-Referral-utilities",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:PosScreen-Referral-food",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens Requesting Referrals Food Insecurity",
       "identifier": "PosScreen-Referral-food",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:PosScreen-Referral-transportation",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens Requesting Referrals Transportation Insecurity",
       "identifier": "PosScreen-Referral-transportation",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:PositiveScreen-NeedsImproved-financing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Improved Social Needs Financial Insecurity",
       "identifier": "PositiveScreen-NeedsImproved-financing",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:PositiveScreen-NeedsImproved-housing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Improved Social Needs Housing Instability",
       "identifier": "PositiveScreen-NeedsImproved-housing",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:PositiveScreen-NeedsImproved-utilities",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Improved Social Needs Utility Instability",
       "identifier": "PositiveScreen-NeedsImproved-utilities",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:PositiveScreen-NeedsImproved-food",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Improved Social Needs Food Insecurity",
       "identifier": "PositiveScreen-NeedsImproved-food",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:PositiveScreen-NeedsImproved-transportation",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Improved Social Needs Transportation Insecurity",
       "identifier": "PositiveScreen-NeedsImproved-transportation",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_increasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000039"
     },
     {
       "@id": "_:PositiveScreen-NeedsOngoing-financing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Persistent Social Needs Financial Insecurity",
       "identifier": "PositiveScreen-NeedsOngoing-financing",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000042"
     },
     {
       "@id": "_:PositiveScreen-NeedsOngoing-housing",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Persistent Social Needs Housing Instability",
       "identifier": "PositiveScreen-NeedsOngoing-housing",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000042"
     },
     {
       "@id": "_:PositiveScreen-NeedsOngoing-utilities",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Persistent Social Needs Utility Instability",
       "identifier": "PositiveScreen-NeedsOngoing-utilities",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000042"
     },
     {
       "@id": "_:PositiveScreen-NeedsOngoing-food",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Persistent Social Needs Food Insecurity",
       "identifier": "PositiveScreen-NeedsOngoing-food",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000042"
     },
     {
       "@id": "_:PositiveScreen-NeedsOngoing-transportation",
       "@type": "http://purl.obolibrary.org/obo/PSDO_0000102",
       "dc:title": "Positive Screens with Persistent Social Needs Transportation Insecurity",
       "identifier": "PositiveScreen-NeedsOngoing-transportation",
-      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_desired_decreasing_measure"
+      "has_desired_direction": "http://purl.obolibrary.org/obo/PSDO_0000042"
     }
   ]
 }
